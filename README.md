@@ -14,4 +14,4 @@ Files description:
 * **y_treino.csv** - the surfaces for the training set.
 * **sample_submission.csv** - a sample submission file in the correct format.
 
-In this competition my best score was ??? and I got the position ??? on the leaderboard.
+In this competition my best score was 0.622 and I got the position 26 on the leaderboard.
